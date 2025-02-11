@@ -1,5 +1,4 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Ahmed Fathy's profile!
@@ -11,9 +10,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front_End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+
 - 🏢 I'm a Front-End Developer.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+
+
+<img width="250" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE3aGRxbDBvNHgxb3Q0NGVhZWhxZDZ5eXhqdmd0c3R5NjkxMWdqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif">
 
 ### Connect with Me :
 
