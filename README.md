@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me:
 <p>
-  I'm a passionate Front-End Developer from <b>Egypt</b>, specializing in building beautiful and functional user interfaces. I enjoy turning complex problems into simple, elegant solutions. My focus is on creating responsive, high-performance web applications using modern technologies like <b>React.js</b> and <b>Tailwind CSS</b>.
+  I'm a passionate Front-End Developer, specializing in building beautiful and functional user interfaces. I enjoy turning complex problems into simple, elegant solutions. My focus is on creating responsive, high-performance web applications using modern technologies like <b>React.js</b> and <b>Tailwind CSS</b>.
 </p>
 
 - 🔭 I’m currently working on personal projects to sharpen my React skills.
