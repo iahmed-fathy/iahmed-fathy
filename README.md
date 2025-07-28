@@ -1,44 +1,57 @@
+<div id="header" align="center">
+  <h1 align="center">
+    Hi there, I'm Ahmed Fathy 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Building%20intuitive%20web%20experiences;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=460&height=45&color=30A46C&vCenter=true&size=22">
+    </a>
+  </p>
+</div>
 
+---
 
-<h3 align="center">
-  Welcome to Ahmed Fathy's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+### 👨‍💻 About Me:
+<p>
+  I'm a passionate Front-End Developer from <b>Egypt</b>, specializing in building beautiful and functional user interfaces. I enjoy turning complex problems into simple, elegant solutions. My focus is on creating responsive, high-performance web applications using modern technologies like <b>React.js</b> and <b>Tailwind CSS</b>.
+</p>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+- 🔭 I’m currently working on personal projects to sharpen my React skills.
+- 🌱 I’m currently learning more about <b>Next.js</b> and advanced state management.
+- ⚡ Fun fact: I'm a coffee enthusiast; my perfect day is powered by code and caffeine!
+- 📫 How to reach me: **iahmed.fathy@hotmail.com**
+
+---
+
+### 🛠️ Languages and Tools:
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front_End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,python,git,github,next" />
+  </a>
+</p>
 
+---
 
-- 🏢 I'm a Front-End Developer.
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+<div align="center">
 
+### 📊 My GitHub Stats:
 
-<img width="250" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE3aGRxbDBvNHgxb3Q0NGVhZWhxZDZ5eXhqdmd0c3R5NjkxMWdqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif">
+<a href="https://github.com/iahmed-fathy"><img src="https://github-readme-stats.vercel.app/api?username=iahmed-fathy&show_icons=true&theme=tokyonight&border_color=30A46C&hide_border=true" alt="Ahmed's GitHub stats" /></a>
+<a href="https://github.com/iahmed-fathy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahmed-fathy&layout=compact&theme=tokyonight&border_color=30A46C&hide_border=true" alt="Ahmed's Top Languages" /></a>
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/ahmedjouban/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Fathy-0077B5?style=for-the-badge" width=200px height=30px/></a>
-<a href="https://t.me/AhmedFathyJouban" target="_blank"><img src="https://img.shields.io/badge/Telegram-Ahmed%20Fathy-0077B5?style=for-the-badge" width=200px height=30px/></a>
-
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iahmed-fathy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=iahmed-fathy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=iahmed-fathy&style=for-the-badge">
+
+<a href="https://komarev.com/ghpvc/?username=iahmed-fathy&style=for-the-badge&color=brightgreen">
+    <img src="https://komarev.com/ghpvc/?username=iahmed-fathy&style=for-the-badge&color=brightgreen">
 </a>
+
+</div>
+
+---
+
+### 🤝 Connect with Me:
+<p align="center">
+<a href="https://www.linkedin.com/in/iahmedfathy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://t.me/AhmedFathyJouban" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
