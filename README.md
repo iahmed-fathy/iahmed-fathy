@@ -5,7 +5,7 @@
   </h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Building%20intuitive%20web%20experiences;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=460&height=45&color=30A46C&vCenter=true&size=22">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=460&height=45&color=30A46C&vCenter=true&size=22">
     </a>
   </p>
 </div>
@@ -27,7 +27,7 @@
 ### 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,python,git,github,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,sass,python,git,github" />
   </a>
 </p>
 
