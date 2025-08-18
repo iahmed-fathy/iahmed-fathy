@@ -17,14 +17,13 @@
   I'm a passionate Front-End Developer, specializing in building beautiful and functional user interfaces. I enjoy turning complex problems into simple, elegant solutions. My focus is on creating responsive, high-performance web applications using modern technologies like <b>React.js</b> and <b>Tailwind CSS</b>.
 </p>
 
-- 🔭 I’m currently working on personal projects to sharpen my React skills.
-- 🌱 I’m currently learning more about <b>Next.js</b> and advanced state management.
+- 🔭 Currently working on advanced React-based projects to enhance my expertise.
 - ⚡ Fun fact: I'm a coffee enthusiast; my perfect day is powered by code and caffeine!
 - 📫 How to reach me: **iahmed.fathy@hotmail.com**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,sass,python,git,github" />
