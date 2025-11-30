@@ -35,10 +35,6 @@
 <div align="center">
 
 ### 📊 My GitHub Stats:
-
-<a href="https://github.com/iahmed-fathy"><img src="https://github-readme-stats.vercel.app/api?username=iahmed-fathy&show_icons=true&theme=tokyonight&border_color=30A46C&hide_border=true" alt="Ahmed's GitHub stats" /></a>
-<a href="https://github.com/iahmed-fathy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahmed-fathy&layout=compact&theme=tokyonight&border_color=30A46C&hide_border=true" alt="Ahmed's Top Languages" /></a>
-
 <br>
 
 <a href="https://komarev.com/ghpvc/?username=iahmed-fathy&style=for-the-badge&color=brightgreen">
@@ -51,6 +47,6 @@
 
 ### 🤝 Connect with Me:
 <p align="center">
-<a href="https://www.linkedin.com/in/iahmedfathy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://t.me/AhmedFathyJouban" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.linkedin.com/in/iahmedfathy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
+<a href="https://t.me/AhmedFathyJouban" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logoColor=white" alt="Telegram"></a>
 </p>
