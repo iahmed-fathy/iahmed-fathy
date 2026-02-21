@@ -5,7 +5,8 @@
   </h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=460&height=45&color=30A46C&vCenter=true&size=22">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Building%20Full-Stack%20Applications;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=520&height=45&color=30A46C&vCenter=true&size=22">
+    </a>
     </a>
   </p>
 </div>
@@ -13,39 +14,59 @@
 ---
 
 ### 👨‍💻 About Me:
-<p>
-  I'm a passionate Front-End Developer, specializing in building beautiful and functional user interfaces. I enjoy turning complex problems into simple, elegant solutions. My focus is on creating responsive, high-performance web applications using modern technologies like <b>React.js</b> and <b>Tailwind CSS</b>.
-</p>
 
-- 🔭 Currently working on advanced React-based projects to enhance my expertise.
-- ⚡ Fun fact: I'm a coffee enthusiast; my perfect day is powered by code and caffeine!
-- 📫 How to reach me: **iahmed.fathy@hotmail.com**
+I'm a **Web Developer** focused on building scalable, high-performance web applications from front to back.  
+I specialize in crafting clean, maintainable user interfaces while expanding my expertise into backend development and system architecture.
+
+I believe great software is not just about beautiful UI — it's about performance, structure, and long-term scalability.
+
+- 🔭 Currently building advanced React & Next.js applications
+- 🌱 Expanding into backend development (Node.js & APIs)
+- 🧠 Interested in architecture, performance optimization, and clean code
+- ☕ Coffee-driven developer
+- 📫 Reach me at: **iahmed.fathy@hotmail.com**
 
 ---
 
-### 🛠️ Tech Stack:
+### 🧠 Core Expertise
+
+- Responsive UI Engineering
+- Component-Based Architecture
+- State Management
+- API Integration
+- Performance Optimization
+- Clean Code & Scalable Structure
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,sass,python,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,nodejs,express,mongodb,python,git,github" />
   </a>
 </p>
 
 ---
 
-<div align="center">
+### 🚀 Currently Exploring
 
-### 📊 My GitHub Stats:
-<br>
-
-<a href="https://komarev.com/ghpvc/?username=iahmed-fathy&style=for-the-badge&color=brightgreen">
-    <img src="https://komarev.com/ghpvc/?username=iahmed-fathy&style=for-the-badge&color=brightgreen">
-</a>
-
-</div>
+- Backend Architecture
+- RESTful API Design
+- Database Modeling
+- Authentication Systems
+- Full-Stack Application Patterns
 
 ---
 
-### 🤝 Connect with Me:
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iahmed-fathy&theme=tokyo-night&hide_border=true"/>
+
+---
+
+### 🤝 Connect With Me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/iahmedfathy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
 <a href="https://t.me/AhmedFathyJouban" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logoColor=white" alt="Telegram"></a>
