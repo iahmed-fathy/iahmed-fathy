@@ -59,12 +59,6 @@ I believe great software is not just about beautiful UI — it's about performan
 
 ---
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iahmed-fathy&theme=tokyo-night&hide_border=true"/>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
